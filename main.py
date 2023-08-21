@@ -6,7 +6,7 @@ import streamlit as st
 st.title('T20 Leagues Stats Page')
 
 st.write('Set-1 Leagues: PSL,SA20,ILT20,IPL,The Hundred,CPL')
-st.write('BBL,MLC,MSL,LPL,Afghanistan premier League,BPL')
+st.write('BBL,MLC,MSL,LPL,BPL,APL(Afghanistan)')
 st.markdown("[Set-1 leagues Stats](https://t20leagues-main.streamlit.app/)")
 st.write('')
 
